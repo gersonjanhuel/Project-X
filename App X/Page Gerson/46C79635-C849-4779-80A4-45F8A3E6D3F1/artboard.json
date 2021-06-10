@@ -73,6 +73,10 @@
     {
       "class": "rectangle",
       "id": "55FAA8CF-B2FD-425C-89B2-F2047C6CA992"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EB1E844-8203-4D6A-A2BD-B1EB0378E3B3"
     }
   ],
   "name": "iPhone 11 Pro",

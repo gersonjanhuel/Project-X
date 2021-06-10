@@ -69,6 +69,10 @@
     {
       "class": "rectangle",
       "id": "0CFCBB9C-B876-479E-83AD-E0D7A080C5FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B9DAD04-234F-4CB7-B4F4-D8203F2E0811"
     }
   ],
   "name": "iPhone 12 Pro",
