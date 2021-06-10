@@ -73,6 +73,10 @@
     {
       "class": "rectangle",
       "id": "FB527A16-5738-459F-9EE4-9591896E4EC3"
+    },
+    {
+      "class": "bitmap",
+      "id": "C0A52C5D-CAB6-4B5B-AF9B-7487CBB8738B"
     }
   ],
   "name": "iPhone 11 Pro Copy",
