@@ -1,6 +1,5 @@
 {
   "_class": "document",
-  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -22,9 +21,11 @@
     "images": [
     ]
   },
-  "autoEmbedFonts": false,
   "colorSpace": 0,
   "do_objectID": "39A080CB-C4A4-48D7-927E-E300F1EBB1D0",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
     {
       "_class": "fontReference",
@@ -517,6 +518,7 @@
       "_class": "MSImmutableForeignSymbol",
       "do_objectID": "37C5B18F-065B-48FE-B56D-7C9C173C8252",
       "libraryID": "CD0B5436-6538-4AE3-B7FC-75D36572F2C0",
+      "missingLibraryFontAcknowledged": false,
       "originalMaster": {
         "_class": "symbolMaster",
         "allowsOverrides": true,
@@ -528,7 +530,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 0,
         "clippingMaskMode": 0,
         "do_objectID": "98B8808D-B1BA-4E49-8247-DAE546C2AEC5",
         "exportOptions": {
@@ -562,7 +563,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -1010,7 +1010,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 0,
         "clippingMaskMode": 0,
         "do_objectID": "98B8808D-B1BA-4E49-8247-DAE546C2AEC5",
         "exportOptions": {
@@ -1044,7 +1043,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -1567,6 +1565,7 @@
           "windingRule": 1
         }
       },
+      "missingLibraryFontAcknowledged": false,
       "remoteStyleID": "61F8D84F-5D51-4138-8A03-665DD49C49B1[89659D2E-101C-49E0-9BE6-753BAFEC328B]",
       "sourceLibraryName": "Apple iOS UI",
       "symbolPrivate": true
@@ -1574,13 +1573,14 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "169CA5E5-C6BF-48D7-927E-E802F1CAC8BD",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "67.2",
-    "build": 100443,
-    "version": 130
+    "appVersion": "72.4",
+    "build": 124482,
+    "version": 136
   },
   "pages": [
     "Page Gerson",
@@ -1588,6 +1588,7 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "0090A1E5-C6BF-48D7-927E-E802F1CAC6B1",
     "objects": [
     ]
   }
