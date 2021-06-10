@@ -174,8 +174,8 @@
           "_class": "color",
           "alpha": 1,
           "blue": 0,
-          "green": 0.8810999391243138,
-          "red": 0.9706226293591486
+          "green": 0,
+          "red": 0
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
